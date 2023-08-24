@@ -8,7 +8,3 @@
 - 🤔 I’m looking to network with other developers.
 - 💬 Ask me about my programming journey!
 - 📫 Contact mattjskov@gmail.com
-
-#### Thanks for visiting my github!
-
-#### --Matt Skovranek
