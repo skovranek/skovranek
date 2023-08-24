@@ -7,6 +7,6 @@
 - 👯 I love helping others learn programming and rubber duck solutions.
 - 📫 How to reach me: mattjskov@gmail.com
 
-###Thanks for visiting my github!
+### Thanks for visiting my github!
 
-##--Matt Skovranek
+## --Matt Skovranek
