@@ -1,6 +1,6 @@
 # Hello, I'm Matt Skovranek. 
 
-### What I have going on:
+### The latest:
 - 🔭 I'm applying for backend roles while working retail.
 - 🌱 I’m learning Golang and NeoVim.
 - 📂 Check out my [portfolio](https://skovranek.github.io/)
