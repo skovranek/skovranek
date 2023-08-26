@@ -5,5 +5,5 @@
 - 🌱 I’m learning Golang and NeoVim.
 - 📂 Check out my [portfolio](https://skovranek.github.io/)
 - 📫 Contact mattjskov@gmail.com
-- 🤔 Let's network on [X/Twitter](https://twitter.com/MattSkovranek) and [LinkedIn](https://www.linkedin.com/in/matthew-skovranek-6390ba23a/)
+- ☕ Let's network on [LinkedIn](https://www.linkedin.com/in/matthew-skovranek-6390ba23a/) and [X/Twitter](https://twitter.com/MattSkovranek)
 - 💬 Ask me about my programming journey!
