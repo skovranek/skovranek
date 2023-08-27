@@ -2,8 +2,8 @@
 
 ### The latest:
 - 🔭 I'm applying for backend roles while working retail.
-- 🌱 I’m learning Golang and NeoVim.
+- 🌱 I’m learning Go and Neovim.
 - 📂 Check out my [portfolio](https://skovranek.github.io/)
-- 📫 Contact mattjskov@gmail.com
+- 📫 Contact mattjskov at gmail.com
 - ☕ Let's network on [LinkedIn](https://www.linkedin.com/in/matthew-skovranek-6390ba23a/) and [X/Twitter](https://twitter.com/MattSkovranek)
 - 💬 Ask me about my programming journey!
