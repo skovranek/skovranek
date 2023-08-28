@@ -1,5 +1,3 @@
-# I'm Matt Skovranek
-
 ### The latest
 - 🔭 I'm pursuing a backend dev role
 - 📂 Check out my [portfolio](https://skovranek.github.io/)
