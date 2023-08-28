@@ -1,4 +1,4 @@
-### The latest
+# I'm Matt Skovranek
 - 🔭 I'm pursuing a backend dev role
 - 📂 Check out my [portfolio](https://skovranek.github.io/)
 - 📫 Contact mattjskov at gmail.com
