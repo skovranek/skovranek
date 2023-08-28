@@ -1,4 +1,4 @@
-# Hello, I'm Matt Skovranek
+# I'm Matt Skovranek
 
 ### The latest
 - 🔭 I'm pursuing a backend dev role
