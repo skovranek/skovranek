@@ -1,7 +1,7 @@
 # Hello, I'm Matt Skovranek. 
 
 ### The latest:
-- 🔭 I'm applying for backend roles.
+- 🔭 I'm pursuing a backend dev role.
 - 🌱 I’m learning Go and Neovim.
 - 📂 Check out my [portfolio](https://skovranek.github.io/).
 - 📫 Contact mattjskov at gmail.com.
